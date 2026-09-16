@@ -1,1 +1,0 @@
-const {user_model} = require('./user')
